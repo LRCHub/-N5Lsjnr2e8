@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Middle Finger",
+  "base_artist": "Bohnes",
+  "createdAt": "2026-02-13T09:55:21.549809Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Middle Finger",
+      "artist": "Cocoon",
+      "has_synced": false,
+      "path": "select/01_Middle_Finger_Cocoon.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Middle Finger",
+      "artist": "Dog Blood",
+      "has_synced": true,
+      "path": "select/02_Middle_Finger_Dog_Blood.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Middle Finger Messiah",
+      "artist": "Stryper",
+      "has_synced": true,
+      "path": "select/03_Middle_Finger_Messiah_Stryper.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Side Fx Include Mikey's Middle Finger (TV 4)",
+      "artist": "Ministry",
+      "has_synced": true,
+      "path": "select/04_Side_Fx_Include_Mikey's_Middle_Finger_(TV_4)_Ministry.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Middle Finger Response",
+      "artist": "Propagandhi",
+      "has_synced": false,
+      "path": "select/05_Middle_Finger_Response_Propagandhi.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Middle Finger",
+      "artist": "Bohnes",
+      "has_synced": true,
+      "path": "select/06_Middle_Finger_Bohnes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wrapped Around Your Middle Finger",
+      "artist": "Brazil",
+      "has_synced": true,
+      "path": "select/07_Wrapped_Around_Your_Middle_Finger_Brazil.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Middle Finger - Millions Like Us Remix",
+      "artist": "Dog Blood",
+      "has_synced": false,
+      "path": "select/08_Middle_Finger_-_Millions_Like_Us_Remix_Dog_Blood.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Middle Finger (Millions Like Us Remix)",
+      "artist": "Dog Blood",
+      "has_synced": false,
+      "path": "select/09_Middle_Finger_(Millions_Like_Us_Remix)_Dog_Blood.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Middle Finger (original mix)",
+      "artist": "Dog Blood",
+      "has_synced": false,
+      "path": "select/10_Middle_Finger_(original_mix)_Dog_Blood.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Middle Finger - The M Machine Remix",
+      "artist": "Dog Blood",
+      "has_synced": false,
+      "path": "select/11_Middle_Finger_-_The_M_Machine_Remix_Dog_Blood.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Middle Finger (The M Machine Remix)",
+      "artist": "Dog Blood",
+      "has_synced": false,
+      "path": "select/12_Middle_Finger_(The_M_Machine_Remix)_Dog_Blood.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Middle Finger",
+      "artist": "Phoebe Ryan feat. Quinn XCII",
+      "has_synced": true,
+      "path": "select/13_Middle_Finger_Phoebe_Ryan_feat._Quinn_XCII.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Middle Finger (NOW What's Next!)",
+      "artist": "Phoebe Ryan & Quinn XCII",
+      "has_synced": true,
+      "path": "select/14_Middle_Finger_(NOW_What's_Next!)_Phoebe_Ryan_&_Quinn_XCII.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Middle Finger",
+      "artist": "Phoebe Ryan x Quinn XCII",
+      "has_synced": true,
+      "path": "select/15_Middle_Finger_Phoebe_Ryan_x_Quinn_XCII.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Middle Finger",
+      "artist": "Phoebe Ryan; Quinn XCII",
+      "has_synced": true,
+      "path": "select/16_Middle_Finger_Phoebe_Ryan;_Quinn_XCII.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Middle Finger (feat. Mac Miller)",
+      "artist": "Cobra Starship feat. Mac Miller",
+      "has_synced": true,
+      "path": "select/17_Middle_Finger_(feat._Mac_Miller)_Cobra_Starship_feat._Mac_Miller.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Middle Finger",
+      "artist": "Bohnes",
+      "has_synced": false,
+      "path": "select/pl_01_Middle_Finger_Bohnes.txt"
+    }
+  ]
+}
